@@ -1,1 +1,1 @@
-fhdjs
+document.write("Hello World!")
